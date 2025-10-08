@@ -1,6 +1,6 @@
 # MIT Distributed Systems Labs
 
-## 5 Labs Included
+## Labs Included
 
 ### **Lab 1 - MapReduce (mr)**
 
